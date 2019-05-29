@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.madarox.bugtracking",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "BugTrackerJHipster",
+    "packageName": "com.madarox.bugtracking",
+    "packageFolder": "com/madarox/bugtracking",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWYxYWIyZDZkZTY3ODMxMjM0OWUwMWJlYzk4MGM2NTIyZjlkNDRiZThkMGVhN2I5NGVhNDRmNzRiMWI3NTYyN2I3ZDljNzM3NDgwNzA1Yjg5MWEyMTkyOGJiNDRlM2EwOGVjYTgwMWYwYjU5NDJiNjFjM2E1NDZlYTllYWZkNTY=",
+    "clientFramework": "angularX",
+    "clientTheme": "minty",
+    "clientThemeVariant": "light",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "ar-ly", "en"]
+  }
+}
